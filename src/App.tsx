@@ -386,7 +386,7 @@ function Dashboard({ onLogout }: { onLogout: () => void }) {
         <div className="flex items-center gap-3 px-4 py-3" style={{ borderTop: "1px solid #1e2130" }}>
           <div className="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0" style={{ background: "#e07b2e", color: "#fff" }}>GI</div>
           <div className="min-w-0 flex-1">
-            <p className="text-xs font-semibold truncate" style={{ color: "#e8eaf0" }}>GIMImadeGT</p>
+            <p className="text-xs font-semibold truncate" style={{ color: "#e8eaf0" }}>ERP</p>
             <p className="text-xs truncate" style={{ color: "#e07b2e" }}>Sucursal: Central</p>
           </div>
         </div>
